@@ -1,6 +1,4 @@
 {
-  "name": "Scrim-s03k1gstl3",
-  "description": "https://scrimba.com/s03k1gstl3/head",
   "scripts": {
     "start": "vite",
     "dev": "vite",
